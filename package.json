@@ -1,0 +1,15 @@
+{
+  "name": "fantasyfootballserver",
+  "version": "1.0.0",
+  "description": "Server that will give the boris chen and beersheets data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "William Bulovas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "papaparse": "^4.5.0"
+  }
+}
